@@ -1,8 +1,8 @@
 <div align="center">
   
-# Hi there, I'm Dr. Thirakorn Mokkawes 👋
+# Hi there, I'm Thirakorn Mokkawes, PhD
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=440&lines=PhD+Research+Scientist+at+A*STAR;PSE+%7C+ISCE2+Researcher;AI+%26+Machine+Learning+Expert;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E86AB&center=true&vCenter=true&width=440&lines=Research+Scientist+at+A*STAR;PSE+%7C+ISCE2+Researcher;AI+%26+Machine+Learning+Expert;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thirakorn-mokkawes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
