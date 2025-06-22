@@ -14,9 +14,9 @@
 
 ## 🔬 About Me
 
-I am a PhD Research Scientist at the **Agency for Science, Technology and Research (A*STAR)** in Singapore, specializing in the **Process Science & Engineering (PSE)** department at **ISCE2**. With my doctoral background, I focus on advancing scientific computing, process optimization, and the intersection of AI/ML with industrial applications.
+I am a Research Scientist at the **Agency for Science, Technology and Research (A*STAR)** in Singapore, specializing in the **Process Science & Engineering (PSE)** department at **ISCE2**. With my doctoral background, I focus on advancing scientific computing, process optimization, and the intersection of AI/ML with industrial applications.
 
-- 🎓 **PhD** in [Your Field] - bringing deep academic expertise to industrial research
+- 🎓 **PhD** in Quantum Mechanics and Molecular Dynamics - bringing deep academic expertise to industrial research
 - 🏢 Currently working at **A*STAR** - Singapore's leading research institute
 - 🔭 Conducting research in process science, engineering optimization, and computational modeling
 - 🌱 Exploring the applications of Large Language Models (LLMs) and graph-based AI systems
