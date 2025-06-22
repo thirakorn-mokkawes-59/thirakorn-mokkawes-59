@@ -64,15 +64,10 @@ I am a Research Scientist at the **Agency for Science, Technology and Research (
   </tr>
 </table>
 
-## 📊 GitHub Statistics
+## 💻 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thirakorn-mokkawes-59&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakorn-mokkawes-59&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" height="180">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thirakorn-mokkawes-59&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thirakorn-mokkawes-59&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages" width="400">
 </div>
 
 ## 🚀 Featured Projects
@@ -116,12 +111,6 @@ I am a Research Scientist at the **Agency for Science, Technology and Research (
 - Technical documentation and standards
 
 </details>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thirakorn-mokkawes-59&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Graph" width="100%">
-</div>
 
 ## 🎯 Current Focus
 
